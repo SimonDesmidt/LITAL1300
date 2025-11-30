@@ -13,7 +13,8 @@ PERSONE = ["io", "tu", "lui/lei", "noi", "voi", "loro"]
 
 # Column ranges for each tense in your new CSV
 TEMPI = {
-    "Gerundio": {"cols": 10, "persons": None}, # Pas de personnes au gérondif
+    "Ausiliaro": {"cols": 8, "persons": None}, # Pas de personnes 
+    "Gerundio": {"cols": 10, "persons": None},
     "Participio passato": {"cols": 9, "persons": None},
 
     "Presente": {"cols": (2, 7), "persons": PERSONE},

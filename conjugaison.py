@@ -21,8 +21,8 @@ TEMPI = {
     "Futuro": {"cols": (23, 28), "persons": PERSONE},
 
     "Imperativo": {
-        "cols": (47, 51),
-        "persons": ["tu", "Lei", "noi", "voi", "loro"]
+        "cols": (47, 50),
+        "persons": ["tu", "Lei", "noi", "voi"]
     },
 }
 

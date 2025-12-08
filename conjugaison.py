@@ -6,7 +6,7 @@ from deep_translator import GoogleTranslator
 import pandas as pd
 
 # ===== CONFIG =====
-CARTELLA_VERBI = "verbi"
+CARTELLA_VERBI = "data"
 FILE_CSV = os.path.join(CARTELLA_VERBI, "verbi.csv")
 
 PERSONE = ["io", "tu", "lui/lei", "noi", "voi", "loro"]
